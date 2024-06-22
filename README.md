@@ -46,3 +46,9 @@ This project analyzes Uber data using SQL on Google BigQuery to gain insights in
 ## Star Schema Diagram
 
 ![uber_table](https://github.com/KanikaGaikwad/Uber-data-engineering-project-ETL-pipeline/assets/138404863/01dac191-e56c-4fb5-8572-ad34e1b57dc3)
+
+
+## Looker Dashboard
+
+![2](https://github.com/KanikaGaikwad/Uber-data-engineering-project-ETL-pipeline/assets/138404863/04e2c1b9-9e52-4093-abbd-77a59345bb9e)
+
