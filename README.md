@@ -50,5 +50,5 @@ This project analyzes Uber data using SQL on Google BigQuery to gain insights in
 
 ## Looker Dashboard
 
-![2](https://github.com/KanikaGaikwad/Uber-data-engineering-project-ETL-pipeline/assets/138404863/04e2c1b9-9e52-4093-abbd-77a59345bb9e)
+![Uber Looker Dashboard ](https://github.com/KanikaGaikwad/Uber-data-engineering-project-ETL-pipeline/assets/138404863/a5e9db5c-73c4-438b-b7a6-7a7bb1be13db)
 
